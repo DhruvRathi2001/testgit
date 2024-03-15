@@ -1,3 +1,7 @@
 This is another file created
 
+<<<<<<< Updated upstream
 This is new content added on the main/master branch
+=======
+heyy this is quickupdates branch
+>>>>>>> Stashed changes
