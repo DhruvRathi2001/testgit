@@ -1,2 +1,4 @@
 This is a sample text
 New line added after stagging
+
+changes made 
